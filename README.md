@@ -5,7 +5,9 @@ San Jose State University
 
 Lenexa Gonsalves, Angeline Lee, Dhirtitapa Ray, and Karthika Thiruvallur
 
-Device: Google Pixel 5 running Pie (API 28)
+Device: 
+
+Google Pixel 5 running Pie (API 28)
 
 Directions:
 
