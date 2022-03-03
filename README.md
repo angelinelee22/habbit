@@ -1,6 +1,8 @@
 # habbit
 Senior Project for CMPE/SE 195A/B (Spring 2022)
+
 San Jose State University
+
 Lenexa Gonsalves, Angeline Lee, Dhirtitapa Ray, and Karthika Thiruvallur
 
 Device: Google Pixel 5 running Pie (API 28)
