@@ -1,16 +1,16 @@
 # habbit
+Senior Project for CMPE/SE 195A/B (Spring 2022)
 
-A new Flutter project.
+San Jose State University
 
-## Getting Started
+Lenexa Gonsalves, Angeline Lee, Dhirtitapa Ray, and Karthika Thiruvallur
 
-This project is a starting point for a Flutter application.
+Device: 
 
-A few resources to get you started if this is your first Flutter project:
+Google Pixel 5 running Pie (API 28)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Directions:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Running this lib file in a sample flutter project should give you a homescreen 
+
+![Screen Shot 2022-03-03 at 11 10 59 AM](https://user-images.githubusercontent.com/91718550/156635502-af400af8-ba02-453e-b846-ae77493f7556.png)
